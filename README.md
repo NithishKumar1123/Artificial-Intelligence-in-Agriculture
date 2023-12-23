@@ -1,2 +1,2 @@
-# Artificial-Intelligence-in-Agriculture
-Artificial Intelligence in agriculture helps farmers to automate their farming but also shifts to precise cultivation for higher crop yield and better quality while using fewer resources.
+# Artificial Intelligence in Agriculture
+Artificial Intelligence in agriculture not only helping farmers to automate their farming but also shifts to precise cultivation for higher crop yield and better quality while using fewer resources. Companies involved in improving machine learning or Artificial Intelligence-based products or services like training data for agriculture, drone, and automated machine making will get technologies advancement in the future will provide more useful applications to this sector helping the world deal with food production issues for the growing population.
